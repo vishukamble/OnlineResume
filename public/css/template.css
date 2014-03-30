@@ -11,7 +11,7 @@ body{
 
 
 #home-img{
-	background-image:url('https://dl.dropboxusercontent.com/s/gflynp1heysy2oe/mainBg.png');
+	background-image:url('https://dl.dropboxusercontent.com/s/h5av0ppqq65niam/about.jpg');
 	background-repeat:no-repeat;
 	background-position:center;
 	background-size:cover;
@@ -114,8 +114,8 @@ body{
 
 #resume{
 	padding-top:4%;
-	background-image:url(https://dl.dropboxusercontent.com/s/0islcdd6wkd6h11/resumeBg.jpg);
-	color:white;
+	background-image:url(https://dl.dropboxusercontent.com/s/o9h8kvelecp0j32/resume%20back1.jpeg);
+	color:black;
 	background-attachment:fixed;
 	background-position:left center;
 	background-size:100%;
@@ -158,7 +158,7 @@ ol{
 
 #contact{
 	text-shadow: 5px 5px 5px gray;
-	background-image:url(https://dl.dropboxusercontent.com/s/jdi280oatyaz32t/contactBg.jpg);
+	background-image:url(http://images.myipadminiwallpaper.com/Gallery/13_3D/My-iPad-mini-wallpaper-HD-3D%2851%29.jpg;
 	padding-top:1%;
 	background-position:center;
 	background-size:100%;

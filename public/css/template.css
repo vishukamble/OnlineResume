@@ -76,7 +76,7 @@ body{
 #about{
 	text-shadow: 5px 5px 5px black;
 	padding-top:1%;
-	background-image:url(https://dl.dropboxusercontent.com/s/6m5d0ymlh6rpcqk/aboutBg.jpg);
+	background-image:url(https://dl.dropboxusercontent.com/s/zupq4bbsreoezir/geek-wallpaper-05-1024x819.jpg);
 	color:white;
 	background-attachment:fixed;
 	background-position:left center;
@@ -114,8 +114,8 @@ body{
 
 #resume{
 	padding-top:4%;
-	background-image:url(https://dl.dropboxusercontent.com/s/o9h8kvelecp0j32/resume%20back1.jpeg);
-	color:black;
+	background-image:url(https://dl.dropboxusercontent.com/s/ig7uzze9mgcm9mf/secoond.jpg);
+	color:white;
 	background-attachment:fixed;
 	background-position:left center;
 	background-size:100%;
@@ -158,7 +158,8 @@ ol{
 
 #contact{
 	text-shadow: 5px 5px 5px gray;
-	background-image:url(http://images.myipadminiwallpaper.com/Gallery/13_3D/My-iPad-mini-wallpaper-HD-3D%2851%29.jpg;
+	background-image:url(https://dl.dropboxusercontent.com/s/4i9uakpt4pi894i/mail.jpg);
+	color:white;
 	padding-top:1%;
 	background-position:center;
 	background-size:100%;
@@ -243,14 +244,17 @@ ol{
 	
 	#about h1{
 		font-size:26px;
+		color:black;
 	}
 	
 	#about p{
 		font-size:18px;
+		color:black;
 	}
 	
 	#about{
 		padding-top:3%;
+		color:black;
 		background-position:right center;
 		background-size:cover;
 		width:100%;

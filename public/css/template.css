@@ -65,7 +65,7 @@ body{
 
 
 .main h1, .main p{
-	text-shadow: 5px 5px 5px #9D9D9D;
+	text-shadow: 2px 2px 2px #9D9D9D;
 	color:white;
 }
 
@@ -74,7 +74,7 @@ body{
 }
 
 #about{
-	text-shadow: 5px 5px 5px black;
+	text-shadow: 2px 2px 2px black;
 	padding-top:1%;
 	background-image:url(https://dl.dropboxusercontent.com/s/zupq4bbsreoezir/geek-wallpaper-05-1024x819.jpg);
 	color:white;
@@ -88,8 +88,8 @@ body{
 }
 
 #about h1{
-	text-shadow: 5px 5px 5px #9D9D9D;
-	padding-top:4%;
+	text-shadow: 2px 2px 2px #9D9D9D;
+	padding-top:1%;
 }
 
 .showcase-item{
@@ -125,7 +125,7 @@ body{
 
 #resume h6, #resume p{
 	margin-left:-25px;
-	text-shadow: 5px 5px 5px black;
+	text-shadow: 2px 2px 2px black;
 }
 
 ul{
@@ -140,7 +140,7 @@ ol{
 
 .resumeInfo{
 
-	text-shadow: 5px 5px 5px black;
+	text-shadow: 2px 2px 2px black;
 	margin-left:10%;
 	margin-right:15%;
 }
@@ -157,7 +157,7 @@ ol{
 }
 
 #contact{
-	text-shadow: 5px 5px 5px gray;
+	text-shadow: 2px 2px 2px gray;
 	background-image:url(https://dl.dropboxusercontent.com/s/4i9uakpt4pi894i/mail.jpg);
 	color:white;
 	padding-top:1%;
@@ -168,7 +168,7 @@ ol{
 }
 
 #contact .jumbotron h3 span{
-	text-shadow: 5px 5px 5px gray;
+	text-shadow: 2px 2px 2px gray;
 	color:maroon;
 }
 
@@ -202,7 +202,7 @@ ol{
 }
 
 #contact .mainFooter p{
-	text-shadow: 5px 5px 5px black;
+	text-shadow: 2px 2px 2px black;
 	color:white;
 	text-align:center;
 	padding-top:15px;

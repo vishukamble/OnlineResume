@@ -65,7 +65,7 @@ body{
 
 
 .main h1, .main p{
-	text-shadow: 1px 1px 1px #9D9D9D;
+
 	color:white;
 }
 
@@ -74,7 +74,7 @@ body{
 }
 
 #about{
-	text-shadow: 1px 1px 1px black;
+
 	padding-top:1%;
 	background-image:url(https://dl.dropboxusercontent.com/s/zupq4bbsreoezir/geek-wallpaper-05-1024x819.jpg);
 	color:white;
@@ -88,7 +88,6 @@ body{
 }
 
 #about h1{
-	text-shadow: 1px 1px 1px rgb(60,60,60);
 	padding-top:1%;
 }
 
@@ -108,8 +107,8 @@ body{
 }
 
 .showcase-item-box img{
-	width:50%;
-	height:80%;
+	width:70%;
+	height:100%;
 }
 
 #resume{
@@ -125,7 +124,6 @@ body{
 
 #resume h6, #resume p{
 	margin-left:-25px;
-	text-shadow: 1px 1px 1px black;
 }
 
 ul{
@@ -140,7 +138,6 @@ ol{
 
 .resumeInfo{
 
-	text-shadow: 1px 1px 1px black;
 	margin-left:10%;
 	margin-right:15%;
 }
@@ -157,7 +154,6 @@ ol{
 }
 
 #contact{
-	text-shadow: 1px 1px 1px gray;
 	background-image:url(https://dl.dropboxusercontent.com/s/4i9uakpt4pi894i/mail.jpg);
 	color:white;
 	padding-top:1%;
@@ -168,7 +164,7 @@ ol{
 }
 
 #contact .jumbotron h3 span{
-	color:black;
+	color:white;
 }
 
 .sharingButtons{
@@ -201,7 +197,6 @@ ol{
 }
 
 #contact .mainFooter p{
-	text-shadow: 1px 1px 1px black;
 	color:white;
 	text-align:center;
 	padding-top:15px;
